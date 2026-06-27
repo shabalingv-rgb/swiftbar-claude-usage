@@ -1,7 +1,16 @@
 #!/bin/bash
-# <swiftbar.title>Claude Usage</swiftbar.title>
+# <xbar.title>Claude Pro Usage Monitor</xbar.title>
+# <xbar.version>v5.0</xbar.version>
+# <xbar.author>shabalingv-rgb</xbar.author>
+# <xbar.author.github>shabalingv-rgb</xbar.author.github>
+# <xbar.desc>Exact Claude Pro 5h session and weekly usage via Anthropic OAuth endpoint. No Node.js, no ccusage — pure Python. Shows utilization %, exact reset countdown, model breakdown, burn rate, weekly forecast.</xbar.desc>
+# <xbar.image>https://raw.githubusercontent.com/shabalingv-rgb/swiftbar-claude-usage/main/docs/screenshot.png</xbar.image>
+# <xbar.dependencies>python3,Claude Code CLI</xbar.dependencies>
+# <xbar.abouturl>https://github.com/shabalingv-rgb/swiftbar-claude-usage</xbar.abouturl>
+# <swiftbar.title>Claude Pro Usage Monitor</swiftbar.title>
 # <swiftbar.version>5.0</swiftbar.version>
-# <swiftbar.author>Custom</swiftbar.author>
+# <swiftbar.author>shabalingv-rgb</swiftbar.author>
+# <swiftbar.author.github>shabalingv-rgb</swiftbar.author.github>
 # <swiftbar.refreshOnOpen>true</swiftbar.refreshOnOpen>
 # <swiftbar.hideAbout>true</swiftbar.hideAbout>
 # <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
