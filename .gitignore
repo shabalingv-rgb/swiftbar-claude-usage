@@ -1,0 +1,13 @@
+# Personal data - never commit these
+data.jsonl
+launchd.log
+state.json
+*.plist
+
+# OS
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
